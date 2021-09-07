@@ -16,5 +16,5 @@ Command + Control + Space
 # type of css styles
 
 - inline (in html element)
-- internal style (in meta section)
+- internal style (in head section)
 - external style (css file)
