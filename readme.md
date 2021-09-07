@@ -18,3 +18,13 @@ Command + Control + Space
 - inline (in html element)
 - internal style (in head section)
 - external style (css file)
+
+## css selctor types
+
+```
+    selector { property: value;}
+```
+
+- tag selector
+- class selector .
+- id selector #
