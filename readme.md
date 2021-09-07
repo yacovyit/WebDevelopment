@@ -25,6 +25,7 @@ Command + Control + Space
     selector { property: value;}
 ```
 
-- tag selector
-- class selector .
-- id selector #
+- tag selector (example h1 { color: red; })
+- class selector . (example .myclass { color: red; })
+- id selector # (example #myid { color: red; })
+- CSS pseudo-class (example a:hover { color: red; })
