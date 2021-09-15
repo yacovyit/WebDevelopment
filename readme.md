@@ -29,3 +29,6 @@ Command + Control + Space
 - class selector . (example .myclass { color: red; })
 - id selector # (example #myid { color: red; })
 - CSS pseudo-class (example a:hover { color: red; })
+
+The Box model - every element is a box
+Viewport - The display screen is the
