@@ -3,20 +3,22 @@
   height: 100px;
   background-color: red;
   position: relative;
-  left: 100px;
+  display: inline-block;
+  left: 200px;
 }
 .blue {
   width: 100px;
   height: 100px;
   background-color: blue;
   position: relative;
-  bottom: 100px;
+  display: inline-block;
+  right: 100px;
 }
 .yellow {
   width: 100px;
   height: 100px;
   background-color: yellow;
   position: relative;
-  bottom: 200px;
-  left: 200px;
+  display: inline-block;
+  right: 100px;
 }
